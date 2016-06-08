@@ -13,7 +13,7 @@ namespace OctopusDemo.UnitTests
 		[Test]
 		public void TestThis()
 		{
-			Assert.That(1, Is.EqualTo(1));
+			Assert.That(1, Is.EqualTo(2));
 		}
     }
 }
