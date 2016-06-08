@@ -7,8 +7,8 @@
     <ProjectGuid>{0E1ADEE1-21A4-4FD4-9C13-EA05A028948C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>OctopusDemo.IntegrationsTests</RootNamespace>
-    <AssemblyName>OctopusDemo.IntegrationsTests</AssemblyName>
+    <RootNamespace>OctopusDemo.IntegrationTests</RootNamespace>
+    <AssemblyName>OctopusDemo.IntegrationTests</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

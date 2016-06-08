@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using NUnit.Framework;
 
-namespace OctopusDemo.IntegrationsTests
+namespace OctopusDemo.IntegrationTests
 {
 	[TestFixture]
     public class TestTheApp
