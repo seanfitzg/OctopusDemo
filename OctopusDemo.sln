@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OctopusDemo.UnitTests", "Oc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OctopusDemo.WebApp", "OctopusDemo.WebApp\OctopusDemo.WebApp.csproj", "{5EFAA209-98E2-4D0F-A2CD-B68BE0078D1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OctopusDemo.IntegrationsTests", "OctopusDemo.IntegrationsTests\OctopusDemo.IntegrationsTests.csproj", "{0E1ADEE1-21A4-4FD4-9C13-EA05A028948C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OctopusDemo.IntegrationTests", "OctopusDemo.IntegrationTests\OctopusDemo.IntegrationTests.csproj", "{0E1ADEE1-21A4-4FD4-9C13-EA05A028948C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
